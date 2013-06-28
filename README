@@ -1,17 +1,6 @@
-        coloring-book-dependencies-android d0.1 <http://hackbytes.com>
+        coloring-book-dependencies-android d1.0 <http://chompix.com>
 
 This is the submodule repository containing tools used by
 "Coloring Book for Android." The master repository can be found at:
 
   http://github.com/byronsanchez/coloring-book-android
-
-INSTRUCTIONS
-
-  To add this repository to the coloring-book-android repository as a
-  submodule:
-
-    cd coloring-book-android
-    git submodule add https://github.com/byronsanchez/coloring-book-dependencies-android.git libs
-    git commit -m 'first commit with submodule coloring-book-dependencies-android'
-
-  That's it!
